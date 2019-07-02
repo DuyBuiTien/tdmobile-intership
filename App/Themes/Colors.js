@@ -24,4 +24,5 @@ const colors = {
   text: '#E0D7E5'
 }
 
+
 export default colors
